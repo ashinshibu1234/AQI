@@ -15,5 +15,5 @@ AQI Predictor is a Streamlit-based web app that forecasts air quality based on e
 
 ##Installation
 1.To Clone:
- '''sh
+```sh
 https://github.com/ashinshibu1234/AQI.git
